@@ -1,6 +1,7 @@
 div.recurrence-widget {
     float: left;
     border: 1px solid #ccc;
+    height: max-content;
 }
 
 div.recurrence-widget div.panel {
